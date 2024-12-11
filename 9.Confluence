@@ -1,0 +1,9 @@
+Link Jira tasks with Confluence to streamline task tracking and progress monitoring for the Library Management 
+System development.
+ • Create a new page in Confluence titled "Library Management System Project Overview."
+ • Embed at least 5 Jira issues related to the development of the Library Management System (e.g., tasks from 
+the sprint like "Develop book search functionality," "Create user login page," etc.).
+ • Use the Jira macro to display issues with status (e.g., "To Do," "In Progress," "Done").
+ • Add a progress bar in the Confluence page to visually track the completion of each embedded Jira task (e.
+g., percentage of tasks completed in the sprint).
+ • Submit a screenshot of the Confluence page showing the embedded Jira tasks and the progress bar.
