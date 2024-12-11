@@ -1,0 +1,7 @@
+Set up a CI/CD pipeline to automate the building, testing, and deployment of a containerized application.
+Tasks:
+1.Set up Jenkins on a local machine or server.
+2.Create a Dockerfile to containerize a sample application.
+3.Write a Jenkinsfile to automate the process of building the Docker container, running tests, and deploying to a 
+cloud platform (e.g., AWS or GCP).
+4.Configure Jenkins to trigger builds upon code commits or pull requests.

@@ -1,0 +1,7 @@
+Create a Static Website and Containerize, Build & Serve it using Docker.
+Tasks:
+1. Create a Simple Static Website (index.html file) with basic HTML content.
+2. Write/create a Dockerfile to serve the website using Nginx.
+3. Build the Docker Image
+4. Run the container:
+5. Access the Website using a Browser
